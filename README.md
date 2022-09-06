@@ -1,1 +1,1 @@
-# devops_training
+# devops-synechron-05-Sept-2022
